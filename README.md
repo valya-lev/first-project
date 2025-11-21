@@ -240,7 +240,7 @@ GitHub (аналоги: GitLab, Bitbucket):
 6. В поле **Key type** (англ. «тип ключа») должно быть **Authentication Key** (англ. «ключ аутентификации»).
 7. В поле **Key** скопируйте ваш ключ из буфера обмена.
 8. Нажмите на кнопку **Add SSH key** (англ. «добавить SSH-ключ»).
-9. Проверьте правильность ключа с помощью следующей команды: ```$ ssh -T git@github.com``
+9. Проверьте правильность ключа с помощью следующей команды: ```$ ssh -T git@github.com```  
    Если это первый раз, когда вы используете Git, чтобы поделиться проектом на GitHub, появится похожее предупреждение:
    ```The authenticity of host 'github.com (140.82.121.4)' can't be established. ED25519 key fingerprint is SHA256:+DiY3wvvV6TuJJhbpZisF/zLDA0zPMSvHdkr4UvCOqU. This key is not known by any other names. Are you sure you want to continue connecting (yes/no/[fingerprint])?```
 Это предупреждение сообщает, что вы никогда не соединялись с сервером GitHub. Поэтому Git не может гарантировать, что сервер является тем, за кого он себя выдаёт.

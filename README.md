@@ -293,6 +293,8 @@ GitHub (аналоги: GitLab, Bitbucket):
 - ```modified``` (```Changes not staged for commit```);
 - ```untracked``` (```Untracked files```).
 
+## Работа с логами
+
 ```git log``` - показывает историю коммитов  
 ```git log --oneline``` - получить сокращённый лог  
 ```q``` - команда для выхода из лога (если автоматического выхода не произошло)

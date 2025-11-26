@@ -340,6 +340,7 @@ GitHub (аналоги: GitLab, Bitbucket):
 ### Откат после коммита ```git commit```
 ```git reset --hard <commit hash>``` - bногда нужно «откатить» то, что уже было закоммичено, то есть вернуть состояние репозитория к более раннему - по сути удаляет эти изменения
 
-тут картинка
+<img width="2902" height="2368" alt="image" src="https://github.com/user-attachments/assets/b20b7faa-022d-4549-b80e-454d342df240" />
+
 
 
